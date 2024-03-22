@@ -1,0 +1,39 @@
+{
+  "name": "fugaomnis",
+  "version": "1.0.0",
+  "description": "Collection of Lava implementation for different providers",
+  "main": "./bin/index.js",
+  "types": "./bin/index.d.ts",
+  "author": "NathanHilll",
+  "license": "Apache-2.0",
+  "scripts": {
+    "tsc": "tsc",
+    "build": "yarn tsc"
+  },
+  "dependencies": {
+    "@lavanet/lava-sdk": "0.8.2",
+    "ethers": "^6.1.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MozelleErnser/fugaomnis.git"
+  },
+  "bugs": {
+    "url": "https://github.com/MozelleErnser/fugaomnis.git/issues"
+  },
+  "homepage": "https://github.com/MozelleErnser/fugaomnis.git",
+  "bin": {
+    "lava-sdk-providers": "bin/index.js"
+  },
+  "keywords": [
+    "lava",
+    "lavanetwork",
+    "neque",
+    "lavaprotocol",
+    "ethers",
+    "corrupti",
+    "decentralized",
+    "rpc",
+    "culpa"
+  ]
+}
